@@ -1,0 +1,51 @@
+html {
+    font-family: 'Barlow';
+}
+
+.logo {
+    filter: drop-shadow(0px 3px 1px rgba(0, 0, 0, 0.2));
+}
+
+#about p {
+    text-indent: 1cm;
+}
+
+.pilihan {
+    margin-top: 24px;
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: 0.5 !important;
+}
+
+.caption h3,
+.caption h5 {
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.achieve h4 {
+    text-shadow: 3px 3px 1px rgba(0, 0, 0, 0.5);
+}
+
+.slider ul li img {
+    filter: grayscale(0.5);
+    opacity: 0.5 !important;
+}
+
+hr {
+    width: 200px;
+    opacity: 0.5 !important;
+}
+
+#photo hr {
+    margin-bottom: 20px;
+}
+
+section {
+    padding: 15px 0;
+}
+
+footer {
+    padding: 8px 0;
+}
